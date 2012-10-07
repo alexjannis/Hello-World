@@ -1,1 +1,6 @@
-simple file
+class simple{
+ simple(int,int,string)
+
+
+
+}
