@@ -1,0 +1,6 @@
+#include <stdio>
+
+int main(){
+	printffff("hier was vergessen")
+	return 0;
+}
